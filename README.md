@@ -1,5 +1,5 @@
 # autoSummon
-make random sotry
+make random story
 
 ```
 概要。
